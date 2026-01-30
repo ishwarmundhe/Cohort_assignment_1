@@ -2,7 +2,7 @@
 
 A clean, responsive single-page resume built entirely using **HTML5** without any CSS or JavaScript. This project demonstrates the power of semantic HTML tags, table-based layouts, and legacy attributes to create a structured document.
 
-🔗 **Live Demo:** [Click here to view the Resume](#) _(Replace with your GitHub Pages link)_
+🔗 **Live Demo:** https://demo-kisan-basket-web-fncy.vercel.app
 
 ## 📸 Screenshots
 
@@ -10,7 +10,6 @@ A clean, responsive single-page resume built entirely using **HTML5** without an
 | :-------------------------------: |
 | ![Resume Preview](screenshot.png) |
 
-_(Add a screenshot named screenshot.png to your repo folder)_
 
 ## 🚀 Features
 
