@@ -23,5 +23,5 @@ _(Add a screenshot named screenshot.png to your repo folder)_
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [git@github.com:ishwarmundhe/Cohort_assignment_1.git](git@github.com:ishwarmundhe/Cohort_assignment_1.git)
    ```
